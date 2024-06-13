@@ -2,7 +2,9 @@
 # first_app
 
 A new Flutter project.
+Navigation and routing. On the product specified in the products_detail.dart:
 
+<<<<<<< HEAD
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -19,8 +21,13 @@ samples, guidance on mobile development, and a full API reference.
 # flutter_app
 Navigation and routing. On the product specified in the products_detail.dart:
 
+=======
+>>>>>>> 8b24320486c0e43c77ababbc3a27149f34a4c1e2
 pixel 1
 laptop
 tablets
 pen drive
+<<<<<<< HEAD
+>>>>>>> 8b24320486c0e43c77ababbc3a27149f34a4c1e2
+=======
 >>>>>>> 8b24320486c0e43c77ababbc3a27149f34a4c1e2
